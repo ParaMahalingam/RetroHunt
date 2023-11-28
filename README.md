@@ -1,7 +1,10 @@
 
+
 # RetroHunt
 
 RetroHunt is a cross-platform application created using React Native. This mobile application is named ‘RetroHunt’ and is our proposition for an online community-driven video game exchange platform, allowing users to buy older games within their local area with relative ease through either delivery or in-person exchange.
+
+**The following project was created in a group as part of a university assignment. I was the leading app developer for this project, with additional contributions from other team members.**
 
 ## Screenshots
 ![RetroHunt](https://raw.githubusercontent.com/ParaMahalingam/RetroHunt/main/Screenshots/combined.png )
@@ -18,6 +21,11 @@ RetroHunt is a cross-platform application created using React Native. This mobil
 
 	Username: Mark
 	Password: mark123@
+
+## Authors
+- Para Mahalingam
+- Dirosan Sivarajah
+- Sulaiman Khan
 
 ## Prerequisites
 [Node.js](https://nodejs.org/en/)
